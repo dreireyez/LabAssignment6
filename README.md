@@ -29,12 +29,11 @@ Ensure that the communication between the news agency and subscribers is decoupl
   <li>The system should provide flexibility for future enhancements, such as personalized subscriptions or categorization of news updates.</li>
 </ul>
 
-
-
-
 **Constraints:**
 <ul>
   <li>The system should be scalable to handle a growing number of subscribers without compromising performance.</li>
   <li>Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.</li>
 </ul>
 
+## Class Diagram
+![Class Diagram](ClassDiagram.png)
