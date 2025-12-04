@@ -14,6 +14,6 @@ public class Subscriber implements SubscriberObserver {
     // Implemented update() method
     @Override
     public void update() {
-
+        System.out.println("Hello " + subscriberName + ", there is a new news article available!");
     }
 }
